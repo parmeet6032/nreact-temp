@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/nreact-temp/static/css/main.a617e044.chunk.css",
+    "main.js": "/nreact-temp/static/js/main.199bef2a.chunk.js",
+    "main.js.map": "/nreact-temp/static/js/main.199bef2a.chunk.js.map",
+    "runtime-main.js": "/nreact-temp/static/js/runtime-main.b7150640.js",
+    "runtime-main.js.map": "/nreact-temp/static/js/runtime-main.b7150640.js.map",
+    "static/js/2.e8a4feef.chunk.js": "/nreact-temp/static/js/2.e8a4feef.chunk.js",
+    "static/js/2.e8a4feef.chunk.js.map": "/nreact-temp/static/js/2.e8a4feef.chunk.js.map",
+    "static/js/3.752f7bf8.chunk.js": "/nreact-temp/static/js/3.752f7bf8.chunk.js",
+    "static/js/3.752f7bf8.chunk.js.map": "/nreact-temp/static/js/3.752f7bf8.chunk.js.map",
+    "index.html": "/nreact-temp/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/nreact-temp/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.e8a4feef.chunk.js.LICENSE.txt": "/nreact-temp/static/js/2.e8a4feef.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/nreact-temp/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b7150640.js",
+    "static/js/2.e8a4feef.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.199bef2a.chunk.js"
+  ]
+}
